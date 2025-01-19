@@ -45,4 +45,12 @@ Proje, **Singleton Design Pattern** kullanılarak bir WebDriver örneği yöneti
 
 **Page Factory** ile WebElement tanımlamaları, **@FindBy** anotasyonu kullanılarak yapılır. Bu, elemanların yalnızca ihtiyaç duyulduğunda yüklenmesini sağlar.
 
-<a href="https://ibb.co/BT9dHY6"><img src="https://i.ibb.co/BT9dHY6/Bel1.webp" alt="Bel1" border="0"></a>
+![Ekran görüntüsü 2025-01-18 005234](https://github.com/user-attachments/assets/02f574e8-955e-459f-b41f-ac6aeca621f1)
+
+![İsimsiz video ‐ Clipchamp ile yapıldı](https://github.com/user-attachments/assets/058df967-b3fc-4b38-a256-b7cbc416f636)
+
+
+![Ekran görüntüsü 2025-01-19 164848](https://github.com/user-attachments/assets/ccfab4f4-394e-4049-8d79-aef11ca770dd)
+
+![image](https://github.com/user-attachments/assets/2d8a852e-39d1-4955-b0aa-cd008eb9687e)
+
