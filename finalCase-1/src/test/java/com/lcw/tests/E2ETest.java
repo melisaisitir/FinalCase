@@ -16,9 +16,9 @@ public class E2ETest extends BaseTest {
         homePage.clickLoginDropdown();
 
         var loginPage = new LoginPage(driver);
-        loginPage.enterEmail("melisaisitir@gmail.com");
+        loginPage.enterEmail("******");
         loginPage.clickContinueButton();
-        loginPage.enterPassword("melisa12345");
+        loginPage.enterPassword("******");
 //        loginPage.clickLoginButton();
 
         homePage.navigateToHomePage();
